@@ -1,0 +1,183 @@
+Package: com.evynw.ew1msgbubbles
+Name: EW1.MessageBubbles
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: debs/com.evynw.ew1msgbubbles_1.1_iphoneos-arm.deb
+Size: 28156
+MD5sum: 7e676e305212ec5a1963975be0b3777f
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Bubbles for both Messages.app & WhatsApp.
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1msgbubbles
+SileoDepiction: https://evynw.github.io/sileo/ew1msgbubbles.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Theme Bits
+
+Package: com.evynw.ew1settingsfuchsia
+Name: EW1.SettingsIcons (Fuchsia)
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: debs/com.evynw.ew1settingsfuchsia_1.0_iphoneos-arm.deb
+Size: 177896
+MD5sum: cfb38982ba4f2d05e6a6d692b879abca
+Version: 1.0
+Architecture: iphoneos-arm
+Description: First ever settings icons theme :P [Color = magenta]
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1settingsfuchsia
+SileoDepiction: https://evynw.github.io/sileo/ew1settingsfuchsia.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Settings Icons
+
+Package: com.evynw.ew6msgbubbles
+Name: EW6.MessageBubbles
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: debs/com.evynw.ew6msgbubbles_1.1-1_iphoneos-arm.deb
+Size: 67874
+MD5sum: 9bebbe87fb27babc5200e0849ef3a93b
+Version: 1.1-1
+Architecture: iphoneos-arm
+Description: A twist on Android-like bubbles
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew6msgbubbles
+SileoDepiction: https://evynw.github.io/sileo/ew6msgbubbles.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Theme Bits
+
+Package: com.evynw.ewwdgtpack16
+Name: EW.WdgtPack.16
+Version: 1.0
+Filename: debs/com.evynw.ewwdgtpack16_1.0_iphoneos-arm.deb
+Size: 3004764
+MD5sum: 0c012814ec4f191d32600e8b6da6b345
+Depends: com.evynw.repoicons (>= 1.2)
+Architecture: iphoneos-arm
+Description: Brand new widget pack :D
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ewwdgtpack16
+SileoDepiction: https://evynw.github.io/sileo/ewwdgtpack16.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Pack.png
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Widget Packs
+
+Package: com.evynw.fontunineue13
+Name: Uni Neue (iOS13)
+Version: 1.1
+Filename: debs/com.evynw.fontunineue13_1.1_iphoneos-arm.deb
+Size: 11600454
+MD5sum: 0b399eb0e3e551664b65cd7305c4d669
+Architecture: iphoneos-arm
+Description: Rounded sans serif. For iOS13.
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.fontunineue13
+SileoDepiction: https://evynw.github.io/sileo/fontunineue13.json
+Icon: https://evynw.github.io/depictions/sectionIcons/Fonts.png
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Fonts (iOS13)
+
+Package: com.evynw.lsew207
+Name: LS EW207
+Version: 1.0
+Filename: debs/com.evynw.lsew207_1.0_iphoneos-arm.deb
+Size: 80226
+MD5sum: aa623842a11f6ea101618162d3edfed4
+Architecture: iphoneos-arm
+Description: New shit in a long while
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew207
+SileoDepiction: https://evynw.github.io/sileo/lsew207.json
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Lockscreen Widgets
+
+Package: com.evynw.lsew215
+Name: LS EW215
+Version: 1.0
+Filename: debs/com.evynw.lsew215_1.0_iphoneos-arm.deb
+Size: 83526
+MD5sum: 66699902010a6122336c1b6381e5a273
+Depends: com.junesiphone.xeninfo
+Architecture: iphoneos-arm
+Description: Originally from 8400PACK.
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew215
+SileoDepiction: https://evynw.github.io/sileo/lsew215.json
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Lockscreen Widgets
+
+Package: com.evynw.lsew252
+Name: LS EW252
+Version: 1.0-1
+Filename: debs/com.evynw.lsew252_1.0-1_iphoneos-arm.deb
+Size: 108016
+MD5sum: a0aca9c85131eea4e874914a662af14a
+Architecture: iphoneos-arm
+Description: Simple time and date widget
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew252
+SileoDepiction: https://evynw.github.io/sileo/lsew252.json
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Lockscreen Widgets
+
+Package: com.evynw.lsew40
+Name: LS EW40
+Version: 1.0
+Filename: debs/com.evynw.lsew40_1.0_iphoneos-arm.deb
+Size: 146442
+MD5sum: eb38b5356e4f0326f27c24867b656b3d
+Depends: com.junesiphone.xeninfo
+Architecture: iphoneos-arm
+Description: [Enter generic LS widget description ^_^]
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.lsew40
+SileoDepiction: https://evynw.github.io/sileo/lsew40.json
+Icon: https://evynw.github.io/depictions/sectionIcons/LS.png
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Lockscreen Widgets
+
+Package: com.evynw.sbew12
+Name: SB EW12
+Version: 1.0
+Filename: debs/com.evynw.sbew12_1.0_iphoneos-arm.deb
+Size: 47422
+MD5sum: f1c2b81c2edb5b9d888b8987835405c4
+Depends: com.evynw.repoicons
+Architecture: iphoneos-arm
+Description: Now compatible across all iOS!
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew12
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Homescreen Widgets
+
+Package: com.evynw.sbew18
+Name: SB EW18
+Version: 1.0
+Filename: debs/com.evynw.sbew18_1.0_iphoneos-arm.deb
+Size: 320720
+MD5sum: 9a47ab181c30ea90c67880d6ad4a81ae
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Architecture: iphoneos-arm
+Description: Now compatible across all iOS!
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew18
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Homescreen Widgets
+
+Package: com.evynw.sbew28
+Name: SB EW28
+Version: 1.0
+Filename: debs/com.evynw.sbew28_1.0_iphoneos-arm.deb
+Size: 105834
+MD5sum: e35b1846120ebbd068bb37984a8aed06
+Depends: com.evynw.repoicons, com.junesiphone.xeninfo
+Architecture: iphoneos-arm
+Description: A widget. Like what else do you think this is?
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.sbew28
+Author: Evelyn (ev_ynw)
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Section: Homescreen Widgets
+
